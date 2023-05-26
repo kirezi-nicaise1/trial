@@ -1,0 +1,17 @@
+fieldset{
+    width: 500px;
+    background-color: rgb(244, 212, 172);
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(231, 215, 215);
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
